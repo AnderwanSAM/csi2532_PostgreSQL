@@ -1,8 +1,12 @@
 # projet-base_de_donnees
 
-Equipe: 
-Nom : Andie SAMADOULOUGOU
-Numero etudiant : 300209487
+
+
+# WARNING : 
+
+Please use these assignments for learning purposes only and do not use them to cheat as that is illegal.
+April 2021 - Andie SAMADOULOUGOU
+
 
 I -  Modele ER
  
